@@ -1,0 +1,54 @@
+body {
+    background-color: bisque;
+    
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background-color: bisque;
+    padding: 30px;
+
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+#missao { /* pra pegar apenas um parágrafo específico e class = ( . ), já id = ( # ) */
+    font-size: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+em strong {
+    color: brown;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 57%;
+}
+

@@ -1,0 +1,1 @@
+Exemplo criado com base nas aulas e no projeto mostrado no curso de HTML e CSS da plataforma Alura.
